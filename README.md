@@ -7,3 +7,4 @@ Exposed API: REST (FastAPI)
 
 
 Step by Step Instruction to use this repo:
+https://nilesh-2644197.postman.co/workspace/nilesh's-Workspace~95de431a-76f4-401f-8922-37b98c89e652/collection/44276255-7afac30e-3568-4b2e-a39b-343f1de5b55e?action=share&source=copy-link&creator=44276255
